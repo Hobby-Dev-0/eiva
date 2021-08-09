@@ -9,4 +9,5 @@ if ENV:
 elif os.path.exists("config.py"):
     from config import Development as Config
 
+Config = Config
 # Eivabot
