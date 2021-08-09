@@ -1,1 +1,2 @@
-from Eivabot.config.vars import Config
+from .Config import *
+from Eivabot.config.vars import *
